@@ -1,5 +1,5 @@
 sidebar_menu_order:
   type: list
   list_type: simple
-  default: community|categories|tags|chat-channels|chat-dms|chat-search
+  default: admin|community|categories|tags|chat-channels|chat-dms|chat-search
   
